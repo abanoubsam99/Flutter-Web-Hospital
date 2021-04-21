@@ -1,6 +1,4 @@
-# web_doctor
-
-Flutter-Web-Hospital
+# Flutter-Web-Hospital
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/49519451/115586683-248abe80-a2cd-11eb-9e52-286be6e3038e.png)
 
